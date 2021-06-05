@@ -2,8 +2,8 @@
 
 > [H3]((https://h3geo.org/)) is a geospatial indexing system that partitions the world into hexagonal cells.
 
-<img src="images/h3-logo.svg" alt="H3 Logo" width="400">
-
-## The H3 project
-- [H3 repository on Github.](https://github.com/uber/h3)
-- [H3 documentation.](https://h3geo.org/docs/)
+## Official
+- [Uber Engineering: H3 blog post](https://eng.uber.com/h3/)
+- [Website](https://h3geo.org/)
+- [Repository](https://github.com/uber/h3)
+- [Documentation](https://h3geo.org/docs/)
