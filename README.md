@@ -7,3 +7,30 @@
 - [Website](https://h3geo.org/)
 - [Repository](https://github.com/uber/h3)
 - [Documentation](https://h3geo.org/docs/)
+
+
+## Repositories
+
+#### Programming language bindings
+- [Python](https://github.com/uber/h3-py)
+- [JavaScript](https://github.com/uber/h3-js)
+- [Java](https://github.com/uber/h3-java)
+- [Golang](https://github.com/uber/h3-go)
+- [R](https://github.com/crazycapivara/h3-r)
+- [Ruby](https://github.com/StuartApp/h3_ruby)
+- [Julia](https://github.com/wookay/H3.jl)
+- [C#](https://github.com/RichardVasquez/h3net)
+
+#### Database bindings
+- [h3-pg: PostgreSQL](https://github.com/bytesandbrains/h3-pg)
+
+#### Others
+- [geojson2h3: Conversion utilities between H3 indexes and GeoJSON.](https://github.com/uber/geojson2h3)
+- [H3-Pandas: Integration of H3 with GeoPandas and Pandas.](https://github.com/DahnJ/H3-Pandas)
+
+
+
+## Resources
+
+#### Tutorials
+- [h3-py Notebooks: Jupyter notebooks including H3 Python API tutorials, examples and visualizations.](https://github.com/uber/h3-py-notebooks)
